@@ -47,7 +47,7 @@ pip install stem selenium pytesseract Pillow opencv-python requests
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-repo/onion-login-captcha-solver.git
+   git clone https://github.com/MohamedAsif07/web-scraping-in-tor-.git
    cd onion-login-captcha-solver
    ```
 
